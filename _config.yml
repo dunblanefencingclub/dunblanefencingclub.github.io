@@ -1,11 +1,12 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            Dunblane Fencing Club
+tagline:          A tribe bringing the culture and discipline of fencing to the youth of Scotland
+description:      Dunblane Fencing Club offers the best fencing coaching in the best environment giving our fencers every opportunity to achieve their potential and supporting them as they progress in the sport. From complete novice to senior international, if you would like to join us please get in touch or just drop in at the club. Our aim is to provide our members and guests with training that is tailored to their needs and which will help them to improve and enjoy the sport at all levels. We train 3 evenings a week (Monday, Wednesday and Thursday) at Holy Rood High School in Edinburgh, run a Friday club at Broughton High School every week, and provide individual lessons on Saturday - please see the about page for more information. We also run training camps during school holidays and provide support to our fencers at competitions. Salle Holyrood - creating tomorrow's champions today!
+
+# canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Nicki Symington
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
   email:          cole@coletownsend.com
