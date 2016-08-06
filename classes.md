@@ -1,17 +1,21 @@
 ---
 layout: post
-permalink: /about/index.html
-title: About the club
+permalink: /classes/index.html
+title: Classes and fees
 description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
 
-### About the club
-* Constitution
-* Health & Safety policy
-* Classes and fees
+All the details of getting your young person signed up in the right class etc. will go here
+
+### Features
+* flexible, uses max-width for responsive goodness
+* responsive drop down menu
+* retina images using @2x
+* post loop in the footer showing 3 latest post
+* custom portfolio page for case studies
 
 ### Acknowledgements
 I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
